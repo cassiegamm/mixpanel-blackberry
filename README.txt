@@ -1,3 +1,8 @@
+
+Support for the Mixpanel Blackberry library will cease as of April 19th, 2018. If you have any questions about the deprecation of this library please contact our support team: https://help.mixpanel.com/hc/en-us/requests/new?ticket_form_id=685608
+
+---
+
 This is the Mixpanel client library for the Blackberry 10 operating system.
 
 Please see the file LICENSE in this distribution for licensing terms.
